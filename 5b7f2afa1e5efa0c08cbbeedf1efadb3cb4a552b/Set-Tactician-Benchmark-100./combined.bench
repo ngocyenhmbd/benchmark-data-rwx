@@ -1,1 +1,0 @@
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_refl	100	1.204837	1	1	0	synth with cache (only 1: refine (fun v0 : Prop => conj (fun v1 : v0 => v1) (fun v1 : v0 => v1))).
