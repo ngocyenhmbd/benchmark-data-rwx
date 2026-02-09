@@ -1,19 +1,19 @@
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj1	100	0.058488	1	1	0	synth with cache (only 1: refine (fun v0 : @A /\ @B => match v0 as v1 in (_ /\ _) return (@A) with | conj v1 v2 => (fun (v1 : @A) (v2 : @B) => v1) v1 v2 end)).
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj2	100	0.058797	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_refl	100	0.055403	1	1	0	synth with cache (only 1: refine (fun v0 : Prop => conj (fun v1 : v0 => v1) (fun v1 : v0 => v1))).
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_sym	100	0.087802	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.not_iff_compat	100	0.053589	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.iff_and	100	0.101723	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.universal_quantification.inst	100	0.061602	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.universal_quantification.gen	100	0.064191	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.eq_sym	100	0.038054	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.eq_trans	100	0.050534	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.eq_trans_r	100	0.043987	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.f_equal	100	0.038993	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.not_eq_sym	100	0.088612	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.eq_rec_r	100	0.042842	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.eq_rect_r	100	0.043294	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.equality_dep.f_equal_dep	100	0.051534	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.eq_refl_map_distr	100	0.091852	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.exists_inhabited	100	0.085043	0	1
-coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.inhabited_covariant	100	0.065816	1	2
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj1	100	0.056679	1	1	0	synth with cache (only 1: refine (fun v0 : @A /\ @B => match v0 as v1 in (_ /\ _) return (@A) with | conj v1 v2 => (fun (v1 : @A) (v2 : @B) => v1) v1 v2 end)).
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj2	100	0.053651	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_refl	100	0.049552	1	1	0	synth with cache (only 1: refine (fun v0 : Prop => conj (fun v1 : v0 => v1) (fun v1 : v0 => v1))).
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_sym	100	0.087115	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.not_iff_compat	100	0.054760	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.iff_and	100	0.101084	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.universal_quantification.inst	100	0.060050	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.universal_quantification.gen	100	0.060091	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.eq_sym	100	0.032516	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.eq_trans	100	0.037345	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.eq_trans_r	100	0.039695	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.f_equal	100	0.034958	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.equality.not_eq_sym	100	0.080917	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.eq_rec_r	100	0.039619	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Logic_lemmas.eq_rect_r	100	0.039615	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.equality_dep.f_equal_dep	100	0.042975	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.eq_refl_map_distr	100	0.085076	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.exists_inhabited	100	0.078314	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.inhabited_covariant	100	0.067368	1	2
