@@ -1,0 +1,14 @@
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj1	100	7.778282	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj2	100	5.018846	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_refl	100	5.013804	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_trans	100	5.022484	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Equivalence.iff_sym	100	5.016020	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.and_iff_compat_l	100	5.027573	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.and_iff_compat_r	100	5.026500	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.or_iff_compat_l	100	5.028238	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.or_iff_compat_r	100	5.032856	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.imp_iff_compat_l	100	5.024044	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.imp_iff_compat_r	100	5.025443	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.not_iff_compat	100	5.021206	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.neg_false	100	5.023495	0	1
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.and_cancel_l	100	5.039588	0	1
