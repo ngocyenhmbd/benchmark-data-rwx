@@ -1,4 +1,3 @@
-Another process has locked /home/brai/tmp/opam-root/config.lock, waiting (C-c to abort)... lock acquired.
 [WARNING] While removing coq-tactician-stdlib.8.11.dev: cannot revert:
   - modifications of:
       - [tms] lib/coq/user-contrib/Ltac2/String.vo
