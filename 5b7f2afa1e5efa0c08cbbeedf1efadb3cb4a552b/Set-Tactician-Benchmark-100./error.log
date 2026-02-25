@@ -1,0 +1,15 @@
+
+
+------------------ Benchmark terminated -----------------------
+
+Fatal benchmarking error: ("Process.run failed"
+ ((prog git) (args (pull --no-rebase))
+  (working_dir
+   ./benchmark-data-rwx/5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b/Set-Tactician-Benchmark-100.)
+  (env (Override ((GIT_TERMINAL_PROMPT (0)))))
+  (exit_status (Exit_non_zero 1)) (stdout "")
+  (stderr
+   ("git@github.com: Permission denied (publickey).\r"
+    "fatal: Could not read from remote repository." ""
+    "Please make sure you have the correct access rights"
+    "and the repository exists." ""))))
