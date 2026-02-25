@@ -7,22 +7,6 @@ enough (Pos.max (Pos.succ i) i0 = i0) as <-; intuition
 enough (_tmp_tactician0 : Pos.max (Pos.succ i) i0 = i0);
  [ intropattern subst <- _tmp_tactician0; idtac | .. ]; intuition
 
-File "./theories/Logic/WKL.v", line 46, characters 49-62:
-Warning:
-Tactician found a bug in it's tactical decomposition. Please report.
-intros [| ] H
-intros _tmp_tactician0;
- (destruct _tmp_tactician0 as [| ];
-   [ .. | intros H; idtac | intros H; idtac ])
-
-File "./theories/Logic/WKL.v", line 49, characters 50-63:
-Warning:
-Tactician found a bug in it's tactical decomposition. Please report.
-intros [| ] H
-intros _tmp_tactician0;
- (destruct _tmp_tactician0 as [| ];
-   [ .. | intros H; idtac | intros H; idtac ])
-
 File "./theories/FSets/FSetPositive.v", line 319, characters 9-25:
 Warning:
 Tactician found a bug in it's tactical decomposition. Please report.
@@ -43,6 +27,22 @@ destruct (Pos.of_uint d) eqn:Hd, (Pos.of_uint d') eqn:Hd'; intros [=]
    | injection _tmp_tactician0 as; idtac
    | intro_equality_clear _tmp_tactician0; idtac
    | intro_equality_hnf _tmp_tactician0; idtac ]))
+
+File "./theories/Logic/WKL.v", line 46, characters 49-62:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros [| ] H
+intros _tmp_tactician0;
+ (destruct _tmp_tactician0 as [| ];
+   [ .. | intros H; idtac | intros H; idtac ])
+
+File "./theories/Logic/WKL.v", line 49, characters 50-63:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros [| ] H
+intros _tmp_tactician0;
+ (destruct _tmp_tactician0 as [| ];
+   [ .. | intros H; idtac | intros H; idtac ])
 
 File "./theories/ZArith/Zcomplements.v", line 67, characters 2-95:
 Warning:
